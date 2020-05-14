@@ -1,0 +1,2 @@
+# COVID-19-PREDICTION-IN-PEOPLE-USING-MACHINE-LEARNING-
+A simple yet effective machine learning project to predict if a person is likely suffering from COVID-19 or not. View the complete article with detailed explanation of each step in the link given below.   https://cppsecrets.com/users/252310097107115104971051159911111110864103109971051084699111109/COVID-19-Prediction-in-People-Using-Machine-Learning.php
